@@ -1,0 +1,6 @@
+# 忽略exe，bin，class
+*.exe
+*.bin
+*.class
+# 忽略所有".cph"文件夹
+.cph/
